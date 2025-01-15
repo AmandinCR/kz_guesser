@@ -1,0 +1,16 @@
+title text
+get image
+get points based on how fast you answer and how many wrong guesses (timer)
+autocomplete map names (textbox)
+submit answers (button)
+
+playlist title
+author name
+list [(picture1, name1),
+      (picture2, name2)]
+
+GOALS:
+leaderboard per playlists
+different playlists
+people can upload playlists
+
